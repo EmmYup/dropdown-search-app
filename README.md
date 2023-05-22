@@ -1,7 +1,7 @@
 # app-select-take-home
 
 
-This exercise will give you a taste of the front-end challenges we handle at Cerby! You will recreate a dropdown component with some nifty features we'll explain in the acceptance criteria.
+This exercise will give you a taste of the front-end challenges we handle at Cerby! With this challenge, we look to understand what it would be like to work with you. Besides learning about your technical skills, we are also interested in collaborating with you through this task, so we are open to answering any questions you may have or providing additional information/clarifications when needed. You will recreate a dropdown component with some nifty features we'll explain in the acceptance criteria.
 
 The design file can be found here: [Figma File](https://www.figma.com/file/keAdBYpQ5nou30hWsBiTvh/Take-Home-Challenge-%F0%9F%9A%80?node-id=12%3A1318&t=aHB3BbDFyVH4ngBk-1)
 
